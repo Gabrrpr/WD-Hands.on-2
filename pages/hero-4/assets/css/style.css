@@ -11,13 +11,13 @@ body {
     font-family: "Poppins", sans-serif;
     color: var(--color-secondary-1);
     display: flex;
+    flex-direction: column  ;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     height: 300vh;
     width: 100vw;
-    background: url('../../../hero-4/assets/img/91002d382da1f64a470b822e88965af3.jpg') no-repeat center center fixed;
-    background-size: cover;
+    background: url('../../../hero-4/assets/img/91002d382da1f64a470b822e88965af3.jpg') no-repeat top;
 }
 
 h1,
@@ -46,6 +46,7 @@ span {
 
 article {
   position: relative;
+  margin-left: 10px;
   border-radius: 16px;
   background: #dfdfdf;
   transition: all 0.4s ease-in-out;
@@ -82,6 +83,7 @@ article img {
   max-width: 100%;
   transition: transform 0.4s ease-in-out;
 }
+
 
 .article-body {
   padding: 24px;
