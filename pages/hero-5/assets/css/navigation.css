@@ -1,11 +1,12 @@
-      .side-nav {
+.side-nav {
     display: flex;
     flex-direction: column;
     position: fixed;
     left: 0;
+    top: 0;
     height: 100vh;
     justify-content: space-between;
-    background-image: linear-gradient(0deg, #951616, #f1efef);
+    background-image: linear-gradient(0deg, #6b6a5e, #ffffff);
     padding: 0.5rem 0;
     align-items: center;
     width: 100px;
@@ -14,7 +15,7 @@
 
   .side-nav .company-logo {
     width: 80px;
-    height: 80px;
+    height: 100px;
     padding: 0.5rem;
     transition: all ease 0.2s;
     object-fit: contain;
@@ -39,9 +40,9 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center; /* Center align the content */
+    align-items: center;
     color: #000000;
-    text-decoration: none; /* Remove underline from links */
+    text-decoration: none;
   }
 
   .side-nav .navigation {
@@ -56,26 +57,24 @@
     transform: rotateY(180deg) scale(0.7);
   }
 
-  .side-nav a.socials {
+  .side-nav .socials .icon-link {
     display: flex;
-    flex-direction: column;
-    align-items: center; /* Center align the social icon */
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #333;
+    color: #fff;
+    font-size: 1.5rem;
+    transition: background-color 0.3s ease;
   }
-
-  .side-nav a.socials h3 {
-    background: transparent;
-    color: black;
-    padding: 0.3rem 0.7rem;
-    border: black 1px solid;
-    border-radius: 5px;
-    transition: all 0.3s ease;
+  
+  .side-nav .socials .icon-link:hover {
+    background-color: #555;
   }
-
-  .side-nav a.socials:hover h3 {
-    background: white;
-    border-color: black;
-  }
-
-  .icon-link {
-
+  
+  .content-wrapper {
+    margin-left: 100px;
+    padding: 20px;
   }

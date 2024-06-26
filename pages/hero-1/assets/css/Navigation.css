@@ -20,7 +20,7 @@
     transition: all ease 0.2s;
     object-fit: contain;
   }
-  
+
   .side-nav .company-logo:hover {
     transform: scale(1.2);
     filter: drop-shadow(0 0 10px rgb(0, 0, 0));
@@ -28,12 +28,12 @@
   
   .side-nav .nav-image {
     width: 80px;
-    height: 80px;
+    height: 50px;
     object-fit: cover;
     border-radius: 10px;
     transition: transform 0.5s ease;
   }
-  
+
   .side-nav a {
     width: 100%;
     transition: all ease 0.5s;
