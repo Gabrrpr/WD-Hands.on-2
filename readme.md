@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/17e2f86ed3833e19314ddbf1f5511295-removebg-preview.png" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
@@ -57,7 +57,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This Projects showcases a collection of different hero and cards, each 
+dedicated to popular characters from various anime series. Explore some of it; designs
+and descriptions. Each hero & card offers different designs and animations. 
 
 Guiding Question:
 - What is the project
@@ -68,15 +70,15 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Animated cards
+- Each design has its uniqueness 
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -116,5 +118,14 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Finn Logo | Navigation button | https://www.google.com/imgres?q=finn%20sitting%20down&imgurl |
+| Princess Bubblegum | Card img | https://www.google.com/imgres?q=finn%20sitting%20down&imgurl |
+| Jake the Dog | Card img | https://www.google.com/imgres?q=finn%20sitting%20down&imgurl |
+| Annie Logo | Navigation button | https://attackontitan.neoseeker.com/wiki/Annie_Leonhart |
+| Gojo Logo | Navigation button | https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo |
+| Denji Logo | Navigation button | https://ph.pinterest.com/?show_error=true |
+| Makima Logo | Card img | https://ph.pinterest.com/?show_error=true |
+| Aki Logo | Card img | https://ph.pinterest.com/?show_error=true |
+| Tanjiro Logo | Navigation button | https://ph.pinterest.com/?show_error=true |
+| Card Designs | Card animations | https://uiverse.io/cards |
+

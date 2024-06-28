@@ -1,0 +1,26 @@
+.card-gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(16, 16, 76);
+}
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.design-1, h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 55px;
+}
+
+.design-2, h2 {
+    text-align: center;
+    margin-top: 10em;
+    margin-left: 55px;
+    margin-bottom: none;
+    color: aliceblues;
+}
+
+

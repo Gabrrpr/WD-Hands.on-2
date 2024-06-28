@@ -38,6 +38,9 @@ h1 * {
   --content-font: "Urbanist", sans-serif;
 }
 
+p {
+  text-align: justify;
+}
 span {
     text-align: center;
     font-size: 15px;
@@ -49,7 +52,7 @@ span {
   height: 6rem;
   top: 20px;
   left: 10px;
-  margin-right: 40em;
+  margin-right: 100em;
   margin-top: 30em;
 }
 
