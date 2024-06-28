@@ -52,7 +52,7 @@
     width: 100%;
     align-items: center;
   }
-  
+
   .side-nav .navigation:hover a:not(:hover) .nav-image {
     transform: rotateY(180deg) scale(0.7);
   }
