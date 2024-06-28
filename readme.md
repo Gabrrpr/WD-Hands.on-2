@@ -119,13 +119,24 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 | Finn Logo | Navigation button | https://www.google.com/imgres?q=finn%20sitting%20down&imgurl |
+
 | Princess Bubblegum | Card img | https://www.google.com/imgres?q=finn%20sitting%20down&imgurl |
+
 | Jake the Dog | Card img | https://www.google.com/imgres?q=finn%20sitting%20down&imgurl |
+
 | Annie Logo | Navigation button | https://attackontitan.neoseeker.com/wiki/Annie_Leonhart |
+
 | Gojo Logo | Navigation button | https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo |
+
 | Denji Logo | Navigation button | https://ph.pinterest.com/?show_error=true |
+
 | Makima Logo | Card img | https://ph.pinterest.com/?show_error=true |
+
 | Aki Logo | Card img | https://ph.pinterest.com/?show_error=true |
+
 | Tanjiro Logo | Navigation button | https://ph.pinterest.com/?show_error=true |
+
 | Card Designs | Card animations | https://uiverse.io/cards |
+
+
 

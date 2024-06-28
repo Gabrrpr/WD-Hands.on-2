@@ -69,11 +69,11 @@
     font-size: 1.5rem;
     transition: background-color 0.3s ease;
   }
-  
+
   .side-nav .socials .icon-link:hover {
     background-color: #555;
   }
-  
+
   .content-wrapper {
     margin-left: 100px;
     padding: 20px;
