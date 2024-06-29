@@ -56,13 +56,13 @@
   .side-nav .navigation:hover a:not(:hover) .nav-image {
     transform: rotateY(180deg) scale(0.7);
   }
-  
+
   .side-nav .socials {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  
+
   .side-nav .socials .icon-link {
     display: flex;
     align-items: center;
@@ -75,12 +75,12 @@
     font-size: 1.5rem;
     transition: background-color 0.3s ease;
   }
-  
+
   .side-nav .socials .icon-link:hover {
     background-color: #555;
   }
-  
+
   .content-wrapper {
-    margin-left: 100px; /* Ensure content does not overlap with side-nav */
+    margin-left: 100px;
     padding: 20px;
   }

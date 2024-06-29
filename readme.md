@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This Project Showcases heros and cards. (Optional)
+  This Project Showcases heros and cards.
 </div>
 
 <br />

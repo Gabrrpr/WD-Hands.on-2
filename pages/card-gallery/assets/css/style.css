@@ -18,9 +18,32 @@ body {
 .design-2, h2 {
     text-align: center;
     margin-top: 10em;
-    margin-left: 55px;
+    margin-left: px;
     margin-bottom: none;
     color: aliceblues;
 }
 
+.design-3, h2 {
+    text-align: center;
+    margin-top: em;
+    margin-left: px;
+    margin-bottom: none;
+    color: aliceblues;
+}
+
+.design-4, h2 {
+    text-align: center;
+    margin-top: 10em;
+    margin-left: 50px;
+    margin-bottom: none;
+    color: aliceblues;
+}
+
+.design-5, h2 {
+    text-align: center;
+    margin-top: 10em;
+    margin-left: px;
+    margin-bottom: none;
+    color: aliceblues;
+}
 
